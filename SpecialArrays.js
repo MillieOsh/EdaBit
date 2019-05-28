@@ -1,0 +1,1 @@
+const isSpecialArray = a => a.every((v, i) => v%2 == i%2);
